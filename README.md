@@ -37,7 +37,8 @@
   <br/>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zabcd121&layout=compact)](https://github.com/zabcd121/github-readme-stats)
-  
+
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api/badge?name=devpoong)](https://devpoong.tistory.com)
 </div>
 <!--
 **zabcd121/zabcd121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
