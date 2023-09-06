@@ -1,16 +1,8 @@
-### Hi there 👋
-
 <div align="align-left"> 
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=031ADF&height=150&section=header&text=김현석's%20Github&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=black&height=50&section=header&text=김현석's%20Github&fontColor=ffffff&fontSize=20&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
 
- <br/>
- <br/>
-  
 ####  :clipboard: Skills
-  
- <br/>
-
 <img src="https://img.shields.io/badge/java-2E64FE?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
 <br>
