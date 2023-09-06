@@ -9,9 +9,6 @@
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
 <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white">
 <img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-<img src="https://img.shields.io/badge/Query DSL-5294E2?style=for-the-badge&logo=querydsl&logoColor=white">
-<img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=JUnit5&logoColor=white">
-<img src="https://img.shields.io/badge/Mockito-25A162?style=for-the-badge&logo=Mockito&logoColor=white">
 <br>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> 
 <img src="https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=white">
@@ -26,6 +23,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zabcd121&layout=compact)](https://github.com/zabcd121/github-readme-stats)
 
 #### :pencil2: Study log
+![hyeonseok's GitHub stats](https://github-readme-stats.vercel.app/api?username=zabcd121&show_icons=true&theme=radical) <br>
+<br>
 [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=devpoong%20&theme=orange)](https://devpoong.tistory.com/)
 
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=devpoong&postId=82&theme=santorini)](https://devpoong.tistory.com/877)
