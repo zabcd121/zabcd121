@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<div align="center"> 
+<div align="align-left"> 
 
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=031ADF&height=150&section=header&text=김현석's%20Github&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
 
@@ -31,14 +31,13 @@
 <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=Amazon aws&logoColor=white">
 <br>
 
- 
-#### :pencil2: Study log
- 
-  <br/>
-  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zabcd121&layout=compact)](https://github.com/zabcd121/github-readme-stats)
 
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api/badge?name=devpoong)](https://devpoong.tistory.com)
+#### :pencil2: Study log
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=devpoong%20&theme=orange)](https://devpoong.tistory.com/)
+
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=devpoong&postId=82&theme=santorini)](https://devpoong.tistory.com/877)
+
 </div>
 <!--
 **zabcd121/zabcd121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
