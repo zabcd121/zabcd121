@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=black&height=50&section=header&text=김현석's%20Github&fontColor=ffffff&fontSize=20&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
 
 #### Projects
-- 회의공간 예약 및 관리 플랫폼 개발 (2022.10 ~ 운영중) [서비스 오픈 : 2023.05]
+- KIOSEK(회의공간 예약 및 관리 플랫폼) 개발 (2022.10 ~ 운영중) [서비스 오픈 : 2023.05]
 - (주) 미래금속 작업일지 관리 및 통계 플랫폼 외주 개발 (2022.08 ~ 2022.10) [고객사 배포: 2022.11]
 - WebRTC를 이용한 실시간 차량 원격 주행 플랫폼 개발 (2023.04 ~ 2023.05)
 
