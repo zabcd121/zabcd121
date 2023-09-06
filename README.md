@@ -22,9 +22,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zabcd121&layout=compact)](https://github.com/zabcd121/github-readme-stats)
 
-#### :pencil2: Study log
 ![hyeonseok's GitHub stats](https://github-readme-stats.vercel.app/api?username=zabcd121&show_icons=true&theme=radical) <br>
 <br>
+#### :pencil2: Study log
 [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=devpoong%20&theme=orange)](https://devpoong.tistory.com/)
 
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=devpoong&postId=82&theme=santorini)](https://devpoong.tistory.com/877)
