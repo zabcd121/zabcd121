@@ -32,7 +32,7 @@
 #### :pencil2: Study log
 [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=devpoong%20&theme=orange)](https://devpoong.tistory.com/)
 
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=devpoong&postId=82&theme=santorini)](https://devpoong.tistory.com/877)
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=devpoong&postId=82&theme=santorini)](https://devpoong.tistory.com/82)
 
 </div>
 <!--
